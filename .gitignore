@@ -1,0 +1,8 @@
+.venv/
+.uv-cache/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*_enhanced.wav
+build/
+*.spec
